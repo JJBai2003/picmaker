@@ -1,3 +1,3 @@
 run:
-	@python3 CGAssignmentOne.py
+	@python3 main.py
 	
